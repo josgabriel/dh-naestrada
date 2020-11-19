@@ -1,0 +1,37 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e6e6e6;
+}
+
+main {
+  margin: 50px;
+  display: flex;
+}
+
+section {
+  width: 50%;
+}
+
+img {
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+}
+
+button {
+  background-color: rgb(226, 29, 42);
+  border: none;
+  width: 100%;
+  padding: 15px;
+  margin-top: 25px;
+  color: white;
+  border-radius: 3px;
+}
+
+
